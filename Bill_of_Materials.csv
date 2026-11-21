@@ -1,0 +1,9 @@
+Table 1
+Crescent Moon Keychain | Bill of Materials,,,,
+No.,Component,Material,Quantity,Purpose
+1,Crescent moon body with crater and antler details,PLA,1,Main 3D-printed structure
+2,Integrated keyring holder,PLA,1,Attachment point for the metal keyring
+3,Metal keyring,Stainless steel (or suitable metal),1,Attaches the keychain to keys or a bag
+,,,,
+Manufacturing,The moon body and integrated holder are intended to be printed as one PLA part using FDM 3D printing.,,,
+Note,The crater and antler details are part of the CAD model and do not require separate components.,,,
